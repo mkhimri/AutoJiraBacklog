@@ -1,8 +1,0 @@
-product: "sale books",
-vision: "increase the number of sales",
-current_state: {
-        "books_by_day": 10
-    },
-desired_state: {
-        "books_by_day": 50
-    }

@@ -1,6 +1,0 @@
-"Type","Summary","Description"
-"Epic","Chicken Coop Management","Manage chicken coop settings, including temperature, humidity, and lighting"
-"Epic","Chicken Health Monitoring","Monitor chicken health, including vaccination schedules, feeding, and disease detection"
-"Epic","Egg Production Tracking","Track egg production, including egg counting, size, and quality"
-"Epic","Chicken Feed Management","Manage chicken feed, including feed types, quantities, and schedules"
-"Epic","Flock Management","Manage chicken flock, including breed, age, and genetics"
