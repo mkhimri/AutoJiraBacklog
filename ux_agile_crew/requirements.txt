@@ -1,7 +1,0 @@
-product: sale books
-vision: increase the number of sales
-current_state: {"books_by_day": 10}
-desired_state: {"books_by_day": 50}
-requirements:
-    - increase the number of books sold per day to 50
-    - implement a marketing strategy to reach the desired state
