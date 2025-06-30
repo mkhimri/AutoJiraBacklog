@@ -1,0 +1,10 @@
+Issue Type,Issue ID,Summary,Description,Epic Name,Priority,Effort Estimate,Acceptance Criteria
+User Story,BOOK-6,Browse and search for books,Allow users to browse and search for books,Increase Book Sales,High,3 days,Users can browse and search for books
+User Story,BOOK-7,Purchase books online,Allow users to purchase books online,Increase Book Sales,High,3 days,Users can purchase books online
+User Story,BOOK-8,Get book recommendations,Provide book recommendations based on user preferences,Improve User Experience,Medium,2 days,Users get book recommendations based on their preferences
+User Story,BOOK-9,Track orders and view purchase history,Allow users to track their orders and view their purchase history,Improve User Experience,Medium,2 days,Users can track their orders and view their purchase history
+User Story,BOOK-10,Secure payment gateway,Provide a secure payment gateway,Ensure System Security,High,1 day,Payment gateway is secure
+User Story,BOOK-11,Handle concurrent users,Handle at least 50 concurrent users,Enhance System Performance,Medium,2 days,System can handle at least 50 concurrent users
+User Story,BOOK-12,Respond to user requests,Respond to user requests within 2 seconds,Enhance System Performance,Medium,2 days,System responds to user requests within 2 seconds
+User Story,BOOK-13,System availability,Be available 24/7,Ensure System Security,High,1 day,System is available 24/7
+User Story,BOOK-14,System security,Be secure and protect user data,Ensure System Security,High,1 day,System is secure and protects user data

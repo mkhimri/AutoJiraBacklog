@@ -1,0 +1,23 @@
+Product Vision:
+product: "sale books",
+vision: "increase the number of sales",
+current_state: {
+        "books_by_day": 10
+    },
+desired_state: {
+        "books_by_day": 50
+    }
+
+Product Requirements:
+Functional Requirements:
+- The system should allow users to browse and search for books.
+- The system should allow users to purchase books online.
+- The system should provide recommendations for books based on user preferences.
+- The system should allow users to track their orders and view their purchase history.
+- The system should provide a secure payment gateway.
+
+Non-Functional Requirements:
+- The system should be able to handle a minimum of 50 concurrent users.
+- The system should respond to user requests within 2 seconds.
+- The system should be available 24/7.
+- The system should be secure and protect user data.
